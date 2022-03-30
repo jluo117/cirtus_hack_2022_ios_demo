@@ -1,0 +1,6 @@
+framework module Pods_barbellTests {
+  umbrella header "Pods-barbellTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
